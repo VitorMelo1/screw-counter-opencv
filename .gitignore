@@ -1,4 +1,3 @@
-# Python
 __pycache__/
 *.py[cod]
 *$py.class
@@ -9,14 +8,11 @@ venv/
 env/
 .env/
 
-# Saídas locais / artefatos de execução
 debug_out/
 *.zip
 
-# Extração acidental de .pptx (não versionar descompactado)
 pptx_extract/
 
-# Ferramentas / SO
 .idea/
 .vscode/
 *.swp
