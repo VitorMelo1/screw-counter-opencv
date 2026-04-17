@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+.env/
+
+# Saídas locais / artefatos de execução
+debug_out/
+*.zip
+
+# Extração acidental de .pptx (não versionar descompactado)
+pptx_extract/
+
+# Ferramentas / SO
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
